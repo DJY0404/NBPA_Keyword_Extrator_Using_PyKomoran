@@ -50,4 +50,5 @@ def analyze_keywords(sents):
     for word, rank in keywords:
         print('{} ({:.3})'.format(word, rank))
 
+    print('')
     return keywords
