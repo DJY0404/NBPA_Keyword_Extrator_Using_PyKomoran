@@ -1,0 +1,3 @@
+Pykomoran
+konlpy==0.5.2
+numpy
